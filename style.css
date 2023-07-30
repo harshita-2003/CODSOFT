@@ -89,6 +89,7 @@ img {
 .custom-btn{
     background-color: #16C79A;
     color:white;
+    width: 100%;
 }
 .custom-btn:hover{
     background-color: #16C79A;
@@ -98,4 +99,5 @@ img {
 a{
     text-decoration: none;
     color:#FFF;
+    width: 100%;
 }
